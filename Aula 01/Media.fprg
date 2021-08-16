@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="marco"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-08-08 02:07:53 "/>
+        <attribute name="created" value="bWFyY287REVMTC01NDgwOzIwMjEtMDgtMDg7IjAyOjAxOjA0ICI7MjI1Ng=="/>
+        <attribute name="edited" value="bWFyY287REVMTC01NDgwOzIwMjEtMDgtMDg7IjAyOjA3OjUzICI7MTsyMzc0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="media, nota1, nota2" type="Real" array="False" size=""/>
+            <output expression="&quot;Digite a primiera nota&quot;" newline="True"/>
+            <input variable="nota1"/>
+            <output expression="&quot;Digite a segunda nota&quot;" newline="True"/>
+            <input variable="nota2"/>
+            <assign variable="media" expression="(nota1+nota2)/2"/>
+            <if expression="media &gt;= 6">
+                <then>
+                    <output expression="&quot;APROVADO&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;REPROVADO&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
