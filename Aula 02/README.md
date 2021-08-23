@@ -8,5 +8,5 @@
 ### Opeadores relacionais
 ![](http://dwebkit.esy.es/repositorio/img/Java/opr.jpg)
 ### Conversão de tipos
-![](http://dwebkit.esy.es/repositorio/img/Java/conversao.jpg)
+![](http://dwebkit.esy.es/repositorio/img/Java/convtipos.jpg)
  
