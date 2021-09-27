@@ -11,3 +11,4 @@ Repositório de aula
 * **Aula 04:** Casting e exercícios
 * **Aula 05:** Métodos
 * **Aula 06:** Estruturas de decisão
+* **Aula 07:** Decisão aninhada
