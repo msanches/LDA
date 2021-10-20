@@ -1,5 +1,7 @@
 # Laboratório de Desenvolvimento de Algoritmos (LDA)
-Repositório de aula
+## Universidade Cruzeiro do Sul.
+
+####Repositório de aula
 
 ![](http://dwebkit.esy.es/repositorio/img/Java/duke14_Pequeno.jpg)
  
