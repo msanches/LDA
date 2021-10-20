@@ -1,7 +1,7 @@
 # Laboratório de Desenvolvimento de Algoritmos (LDA)
 ## Universidade Cruzeiro do Sul.
 
-####Repositório de aula
+#### Repositório de aula
 
 ![](http://dwebkit.esy.es/repositorio/img/Java/duke14_Pequeno.jpg)
  
@@ -13,3 +13,5 @@
 * **Aula 05:** Métodos
 * **Aula 06:** Estruturas de decisão
 * **Aula 07:** Decisão aninhada
+* **Aula 08:** Estruturas de repetição
+* **Aula 09:** Strings e tratamento de exceções 
