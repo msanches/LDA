@@ -15,3 +15,4 @@
 * **Aula 07:** Decisão aninhada
 * **Aula 08:** Estruturas de repetição
 * **Aula 09:** Strings e tratamento de exceções 
+* **Aula 10:** Vetores e matrizes
